@@ -20,4 +20,4 @@ print()
 vehicle =input("Enter a vehicle to see its mpg")
 
 # Display MPG for chosen vehicle 
-mpg = cars{vehicle}
+mpg = cars[vehicle]
